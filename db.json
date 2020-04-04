@@ -1,0 +1,29 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "components"
+    },
+    {
+      "name": "electronics",
+      "id": 3
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "category": "components",
+      "name": "Intel Core i7-9000k CPU"
+    },
+    {
+      "id": 2,
+      "category": "components",
+      "name": "RTX 2080 TI GPU"
+    },
+    {
+      "name": "MOTHERBOARD",
+      "category": "components",
+      "id": 3
+    }
+  ]
+}
