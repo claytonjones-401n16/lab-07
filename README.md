@@ -4,9 +4,9 @@
 
 ### Links and Resources  
 
-submission PR []()
-ci/cd (GitHub Actions) []()
-back-end server url (when applicable) []()
+[submission PR](https://github.com/claytonjones-401n16/lab-07/pull/1)
+[GitHub Actions](https://github.com/claytonjones-401n16/lab-07/actions)
+[back-end URL](https://js-401-lab-07.herokuapp.com/)
 
 ### Setup  
 
@@ -29,4 +29,4 @@ How do you run tests?
 
 #### UML  
 
-![]()
+![lab 07 UML](./assets/lab-07.png)
