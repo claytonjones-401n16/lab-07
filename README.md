@@ -7,27 +7,26 @@
 submission PR []()
 ci/cd (GitHub Actions) []()
 back-end server url (when applicable) []()
-front-end application (when applicable) []()  
 
 ### Setup  
 
-#### .env requirements (where applicable)
-i.e.
+#### .env requirements 
 
-PORT - Port Number
-MONGODB_URI - URL to the running mongo instance/db  
+`PORT - 3000`
   
 #### How to initialize/run your application (where applicable)
-e.g. npm start  
+`node index.js` OR
+`nodemon`
+   
+To view API docs:
+- run `nodemon ./docs/swagger.js`
+- in browser go to `http://localhost:3001/api-docs`
   
-#### How to use your library (where applicable)  
-
 #### Tests  
 
 How do you run tests?
-Any tests of note?
-Describe any tests that you did not complete, skipped, etc  
+- `npm test`
 
 #### UML  
 
-Link to an image of the UML for your application and response to events
+![]()
