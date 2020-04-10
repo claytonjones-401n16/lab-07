@@ -1,5 +1,5 @@
-# LAB - Class 07
-## Lab 7 - Express
+# LAB - Class 8
+## Lab 8 - Express & COnnected API
 ### Author: Clayton Jones
 
 ### Links and Resources  
@@ -12,15 +12,15 @@
 
 #### .env requirements 
 
-`PORT - 3000`
+- `PORT`
+- `MONGODB_URI`
   
 #### How to initialize/run your application (where applicable)
 `node index.js` OR
 `nodemon`
    
 To view API docs:
-- run `nodemon ./docs/swagger.js`
-- in browser go to `http://localhost:3001/api-docs`
+- use URL endpoint `/api-docs`
   
 #### Tests  
 
