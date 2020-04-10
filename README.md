@@ -4,7 +4,7 @@
 
 ### Links and Resources  
 
-[submission PR](https://github.com/claytonjones-401n16/lab-07/pull/1)
+[submission PR](https://github.com/claytonjones-401n16/lab-07/pull/2)
 [GitHub Actions](https://github.com/claytonjones-401n16/lab-07/actions)
 [back-end URL](https://js-401-lab-07.herokuapp.com/)
 
@@ -18,9 +18,10 @@
 #### How to initialize/run your application (where applicable)
 `node index.js` OR
 `nodemon`
-   
+
+#### Documentation   
 To view API docs:
-- use URL endpoint `/api-docs`
+- use URL `https://js-401-lab-07.herokuapp.com/api-docs`
   
 #### Tests  
 
