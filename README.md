@@ -1,5 +1,5 @@
-# LAB - Class 8
-## Lab 8 - Express & COnnected API
+# LAB - Class 9
+## Lab 9 - API Server
 ### Author: Clayton Jones
 
 ### Links and Resources  
