@@ -4,7 +4,7 @@
 
 ### Links and Resources  
 
-[submission PR](https://github.com/claytonjones-401n16/lab-07/pull/2)  
+[submission PR](https://github.com/claytonjones-401n16/lab-07/pull/3)  
 [GitHub Actions](https://github.com/claytonjones-401n16/lab-07/actions)  
 [back-end URL](https://js-401-lab-07.herokuapp.com/)  
 
@@ -30,4 +30,4 @@ How do you run tests?
 
 #### UML  
 
-![lab 07 UML](./assets/lab-07.png)
+![lab 07 UML](./assets/lab-09.png)
