@@ -1,1 +1,33 @@
-# lab-07
+# LAB - Class 9
+## Lab 9 - API Server
+### Author: Clayton Jones
+
+### Links and Resources  
+
+[submission PR](https://github.com/claytonjones-401n16/lab-07/pull/3)  
+[GitHub Actions](https://github.com/claytonjones-401n16/lab-07/actions)  
+[back-end URL](https://js-401-lab-07.herokuapp.com/)  
+
+### Setup  
+
+#### .env requirements 
+
+- `PORT`
+- `MONGODB_URI`
+  
+#### How to initialize/run your application (where applicable)
+`node index.js` OR
+`nodemon`
+
+#### Documentation   
+To view API docs:
+- use URL `https://js-401-lab-07.herokuapp.com/api-docs`
+  
+#### Tests  
+
+How do you run tests?
+- `npm test`
+
+#### UML  
+
+![lab 07 UML](./assets/lab-09.png)
